@@ -1,0 +1,8 @@
+Dataset\data\abnormal\Fan_Bad_4.wav
+Dataset\data\normal\Fan_5.wav
+Dataset\data\normal\Fan_2.wav
+Dataset\data\normal\Fan_1.wav
+Dataset\data\abnormal\Fan_Bad_2.wav
+Dataset\data\abnormal\Fan_Bad_1.wav
+Dataset\data\abnormal\Fan_Bad_3.wav
+Dataset\data\normal\Fan_3.wav
